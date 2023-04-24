@@ -1,6 +1,6 @@
 {
   "name": "loin-test-finschia-proto",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "description": "JS and TS types relating to Protocol Buffers used by FINSCHIA",
   "contributors": [

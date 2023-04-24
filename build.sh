@@ -21,6 +21,7 @@ cd ../ibc-go
 git checkout "$IBC_GO_VERSION"
 
 echo "build js types"
+pwd
 cd ../../js
 # install dependencies
 yarn install

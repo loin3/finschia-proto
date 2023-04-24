@@ -1,5 +1,5 @@
 {
-  "name": "@finschia/finschia-proto",
+  "name": "loin-test-finschia-proto",
   "version": "1.0.0-rc6",
   "main": "index.js",
   "description": "JS and TS types relating to Protocol Buffers used by FINSCHIA",
